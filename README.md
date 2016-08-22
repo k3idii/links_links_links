@@ -13,3 +13,6 @@ Usefull Links Collection  (like-on-git)
 - [chipsec/chipsec: Platform Security Assessment Framework](https://github.com/chipsec/chipsec) 
 - [MicroPython - Python for microcontrollers](https://micropython.org/) 
 - [EtherCalc](https://ethercalc.net/) 
+
+### August 22, 2016
+- [R1_BH USA 2016 - PAC - AK](https://www.blackhat.com/docs/us-16/materials/us-16-Kotler-Crippling-HTTPS-With-Unholy-PAC.pdf) 
