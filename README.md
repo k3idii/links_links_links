@@ -16,3 +16,6 @@ Usefull Links Collection  (like-on-git)
 
 ### August 22, 2016
 - [R1_BH USA 2016 - PAC - AK](https://www.blackhat.com/docs/us-16/materials/us-16-Kotler-Crippling-HTTPS-With-Unholy-PAC.pdf) 
+
+### August 23, 2016
+- [GitHub - osiam/osiam: MIT licensed Open Source Identity and Access Management implementing OAuth 2.0 and SCIMv2.](https://github.com/osiam/osiam) 
