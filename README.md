@@ -19,7 +19,6 @@ Usefull Links Collection  (like-on-git)
 
 ### August 23, 2016
 - [GitHub - osiam/osiam: MIT licensed Open Source Identity and Access Management implementing OAuth 2.0 and SCIMv2.](https://github.com/osiam/osiam) 
-- [GitHub - osiam/osiam: MIT licensed Open Source Identity and Access Management implementing OAuth 2.0 and SCIMv2.](https://github.com/osiam/osiam) 
 - [GitHub - abilian/abilian-sbe](https://github.com/abilian/abilian-sbe) 
 - [GitHub - petermaloney/localpaste: a simple python based pastebin you can run locally, with curl for input, just like clbin.com](https://github.com/petermaloney/localpaste) 
 - [Kali Linux Live USB Persistence | Kali Linux](http://docs.kali.org/downloading/kali-linux-live-usb-persistence) 
