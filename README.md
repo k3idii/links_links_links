@@ -27,6 +27,3 @@ Usefull Links Collection  (like-on-git)
 ### September 1, 2016
 - [YUMI - Multiboot USB Creator - USB Pen Drive LinuxUSB Pen Drive Linux](http://www.pendrivelinux.com/yumi-multiboot-usb-creator/) 
 - [Logowanie - Bank Millennium](https://www.bankmillennium.pl/osobiste2/LoginSignIn) 
-
-### September 19, 2016
-- [https://m.millenniumbcp.pt/pt/Mobile/Pages/welcome.aspx](https://m.millenniumbcp.pt/pt/Mobile/Pages/welcome.aspx) 
