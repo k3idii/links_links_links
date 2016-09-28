@@ -37,3 +37,6 @@ Usefull Links Collection  (like-on-git)
 
 ### September 24, 2016
 - [juokaz/pyhp: PyHP is an implementation of the PHP language with JIT support using the RPython technology.](https://github.com/juokaz/pyhp) 
+
+### September 28, 2016
+- [rshipp/awesome-malware-analysis: A curated list of awesome malware analysis tools and resources](https://github.com/rshipp/awesome-malware-analysis) 
