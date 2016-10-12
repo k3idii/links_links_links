@@ -40,3 +40,6 @@ Usefull Links Collection  (like-on-git)
 
 ### September 28, 2016
 - [rshipp/awesome-malware-analysis: A curated list of awesome malware analysis tools and resources](https://github.com/rshipp/awesome-malware-analysis) 
+
+### October 12, 2016
+- [Weryfikacja cyfry kontrolnej w paszportach, dowodach osobistych... Machine Readable Passport Zone](http://zylla.wipos.p.lodz.pl/ut/paszport.html) 
