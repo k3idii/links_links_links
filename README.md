@@ -43,3 +43,6 @@ Usefull Links Collection  (like-on-git)
 
 ### October 12, 2016
 - [Weryfikacja cyfry kontrolnej w paszportach, dowodach osobistych... Machine Readable Passport Zone](http://zylla.wipos.p.lodz.pl/ut/paszport.html) 
+
+### October 14, 2016
+- [SHENZHEN I/O w serwisie Steam](http://store.steampowered.com/app/504210/) 
