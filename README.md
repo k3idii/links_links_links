@@ -46,3 +46,6 @@ Usefull Links Collection  (like-on-git)
 
 ### October 14, 2016
 - [SHENZHEN I/O w serwisie Steam](http://store.steampowered.com/app/504210/) 
+
+### November 17, 2016
+- [Athcon Corporate Portals](https://www.mindedsecurity.com/fileshare/Fedon_Athcon_June11.pdf) 
