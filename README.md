@@ -49,3 +49,6 @@ Usefull Links Collection  (like-on-git)
 
 ### November 17, 2016
 - [Athcon Corporate Portals](https://www.mindedsecurity.com/fileshare/Fedon_Athcon_June11.pdf) 
+
+### November 18, 2016
+- [Cool, but obscure Unix tools | Hacker News](https://news.ycombinator.com/item?id=2567186) 
