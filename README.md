@@ -57,3 +57,6 @@ Usefull Links Collection  (like-on-git)
 - [Home - Arachni - Web Application Security Scanner Framework](http://www.arachni-scanner.com/) 
 - [OWASP Zed Attack Proxy Project - OWASP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) 
 - [w3af - Open Source Web Application Security Scanner](http://w3af.org/) 
+
+### December 16, 2016
+- [Jak zbudować crackera łamiącego MD5 z prędkością 75 000 000 000 / sek? Tak.](https://sekurak.pl/jak-zbudowac-crackera-lamiacego-md5-z-predkoscia-75-000-000-000-sek-tak/) 
