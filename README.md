@@ -60,3 +60,4 @@ Usefull Links Collection  (like-on-git)
 
 ### December 16, 2016
 - [Jak zbudować crackera łamiącego MD5 z prędkością 75 000 000 000 / sek? Tak.](https://sekurak.pl/jak-zbudowac-crackera-lamiacego-md5-z-predkoscia-75-000-000-000-sek-tak/) 
+- [How To Build A Password Cracking Rig](http://www.netmux.com/blog/how-to-build-a-password-cracking-rig) 
