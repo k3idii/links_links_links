@@ -64,3 +64,6 @@ Usefull Links Collection  (like-on-git)
 
 ### December 23, 2016
 - [GitHub - funoverip/epowner: McAfee ePolicy 0wner exploit code](https://github.com/funoverip/epowner) 
+
+### December 25, 2016
+- [GitHub - antire-book/dont_panic: Linux bind shell with anti-reverse engineering techniques](https://github.com/antire-book/dont_panic) 
