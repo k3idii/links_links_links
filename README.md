@@ -67,3 +67,6 @@ Usefull Links Collection  (like-on-git)
 
 ### December 25, 2016
 - [GitHub - antire-book/dont_panic: Linux bind shell with anti-reverse engineering techniques](https://github.com/antire-book/dont_panic) 
+
+### January 1, 2017
+- [SecurityCTF : CTF announcements & writeups](https://www.reddit.com/r/securityCTF/) 
