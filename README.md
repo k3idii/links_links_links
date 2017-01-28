@@ -76,3 +76,6 @@ Usefull Links Collection  (like-on-git)
 
 ### January 26, 2017
 - [IntellectualHeaven StraceNT - WishList](http://intellectualheaven.com/default.asp?BH=stracent&H=wishlist) 
+
+### January 28, 2017
+- [EasyHook - Installing a remote hook using EasyHook with C++](https://easyhook.github.io/tutorials/nativeremotehook.html) 
