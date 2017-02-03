@@ -79,3 +79,6 @@ Usefull Links Collection  (like-on-git)
 
 ### January 28, 2017
 - [EasyHook - Installing a remote hook using EasyHook with C++](https://easyhook.github.io/tutorials/nativeremotehook.html) 
+
+### February 3, 2017
+- [.bashrc generator: create your .bashrc PS1 with a drag and drop interface](http://bashrcgenerator.com/) 
