@@ -82,3 +82,6 @@ Usefull Links Collection  (like-on-git)
 
 ### February 3, 2017
 - [.bashrc generator: create your .bashrc PS1 with a drag and drop interface](http://bashrcgenerator.com/) 
+
+### February 5, 2017
+- [Binary-Hexadecimal-Decimal-Base64 Converter](https://conv.darkbyte.ru/) 
