@@ -85,3 +85,6 @@ Usefull Links Collection  (like-on-git)
 
 ### February 5, 2017
 - [Binary-Hexadecimal-Decimal-Base64 Converter](https://conv.darkbyte.ru/) 
+
+### February 10, 2017
+- [MagicStack/httptools: Fast HTTP parser](https://github.com/MagicStack/httptools) 
