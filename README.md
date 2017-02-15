@@ -94,3 +94,4 @@ Usefull Links Collection  (like-on-git)
 
 ### February 15, 2017
 - [Welcome to Creative WebDesign: Multi Cert KeyProvider](http://www.creative-webdesign.de/en/software/keepass-plugins/multi-cert-keyprovider.html) 
+- [Vault by HashiCorp](https://www.vaultproject.io/) 
