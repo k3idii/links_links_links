@@ -96,3 +96,6 @@ Usefull Links Collection  (like-on-git)
 - [Welcome to Creative WebDesign: Multi Cert KeyProvider](http://www.creative-webdesign.de/en/software/keepass-plugins/multi-cert-keyprovider.html) 
 - [Vault by HashiCorp](https://www.vaultproject.io/) 
 - [Quick Start | Clarifai Developer](https://developer.clarifai.com/quick-start/) 
+
+### February 17, 2017
+- [Enterprise password manager and file storage subscriptions | Vaultier.org](http://www.vaultier.org/products/) 
