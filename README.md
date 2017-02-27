@@ -105,3 +105,6 @@ Usefull Links Collection  (like-on-git)
 
 ### February 22, 2017
 - [Saleae Logic. The logic analyzer you'll love to use.](https://www.saleae.com/) 
+
+### February 28, 2017
+- [Domki z drewna - Domki ogrodowe - Domki drewniane - producent Stimeo](http://stimeo-allegro.pl/) 
