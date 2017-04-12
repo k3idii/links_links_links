@@ -112,3 +112,6 @@ Usefull Links Collection  (like-on-git)
 ### March 6, 2017
 - [2017 Calendar PDF - 17 free printable calendar templates](http://www.calendarpedia.com/2017-calendar-pdf-templates.html) 
 - [JS and GRAPHS](https://github.com/anvaka/VivaGraphJS)
+
+### April 13, 2017
+- [onsec.whitepaper-02.eng.pdf](http://www.madchat.fr/coding/php/secu/onsec.whitepaper-02.eng.pdf) 
