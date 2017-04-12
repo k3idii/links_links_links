@@ -115,3 +115,4 @@ Usefull Links Collection  (like-on-git)
 
 ### April 13, 2017
 - [onsec.whitepaper-02.eng.pdf](http://www.madchat.fr/coding/php/secu/onsec.whitepaper-02.eng.pdf) 
+- [Project Zero: The Definitive Guide on Win32 to NT Path Conversion](https://googleprojectzero.blogspot.ch/2016/02/the-definitive-guide-on-win32-to-nt.html) 
