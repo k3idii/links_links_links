@@ -117,3 +117,6 @@ Usefull Links Collection  (like-on-git)
 - [onsec.whitepaper-02.eng.pdf](http://www.madchat.fr/coding/php/secu/onsec.whitepaper-02.eng.pdf) 
 - [Project Zero: The Definitive Guide on Win32 to NT Path Conversion](https://googleprojectzero.blogspot.ch/2016/02/the-definitive-guide-on-win32-to-nt.html) 
 - [Windows LongPaths – extended-length paths | Icewall's blog](http://www.icewall.pl/?p=467&lang=en) 
+
+### April 14, 2017
+- [j00ru//vx tech blog : Changing the cursor shape in Windows proven difficult by NVIDIA (and AMD)](http://j00ru.vexillium.org/?p=1980) 
