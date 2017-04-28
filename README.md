@@ -120,3 +120,6 @@ Usefull Links Collection  (like-on-git)
 
 ### April 14, 2017
 - [j00ru//vx tech blog : Changing the cursor shape in Windows proven difficult by NVIDIA (and AMD)](http://j00ru.vexillium.org/?p=1980) 
+
+### April 28, 2017
+- [hta-w05-tracking_hackers_on_your_network_with_sysinternals_sysmon.pdf](https://www.rsaconference.com/writable/presentations/file_upload/hta-w05-tracking_hackers_on_your_network_with_sysinternals_sysmon.pdf) 
