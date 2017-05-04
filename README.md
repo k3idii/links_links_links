@@ -127,3 +127,6 @@ Usefull Links Collection  (like-on-git)
 ### May 03, 2017
  - [http://x64dbg.com/]
 
+
+### May 4, 2017
+- [Walkthrough: Creating Your First VSTO Add-in for Word](https://msdn.microsoft.com/en-us/library/cc442946.aspx) 
