@@ -133,3 +133,6 @@ Usefull Links Collection  (like-on-git)
 
 ### May 6, 2017
 - [GitHub - dodyg/practical-aspnetcore: Practical samples of aspnet core projects you can use](https://github.com/dodyg/practical-aspnetcore) 
+
+### May 19, 2017
+- [hugsy/gef: Multi-Architecture GDB Enhanced Features for Exploiters & Reverse-Engineers](https://github.com/hugsy/gef) 
