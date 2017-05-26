@@ -140,3 +140,6 @@ Usefull Links Collection  (like-on-git)
 
 ### May 25, 2017
 - [Get a Google Search Black Belt | LinkedIn](https://www.linkedin.com/pulse/get-google-search-black-belt-theodor-stenevang-klemming) 
+
+### May 26, 2017
+- [urlquery.net - Free url scanner](http://urlquery.net/report.php?id=1495729289558) 
