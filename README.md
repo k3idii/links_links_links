@@ -143,3 +143,6 @@ Usefull Links Collection  (like-on-git)
 
 ### May 26, 2017
 - [urlquery.net - Free url scanner](http://urlquery.net/report.php?id=1495729289558) 
+
+### May 27, 2017
+- [jrnl- The Command Line Journal](http://jrnl.sh/) 
