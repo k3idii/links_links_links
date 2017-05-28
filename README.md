@@ -149,3 +149,4 @@ Usefull Links Collection  (like-on-git)
 
 ### May 28, 2017
 - [Examples](http://json-schema.org/examples.html) 
+- [Basic Usage — jrnl 1.9.8 documentation](http://jrnl.sh/usage.html) 
