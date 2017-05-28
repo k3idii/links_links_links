@@ -146,3 +146,6 @@ Usefull Links Collection  (like-on-git)
 
 ### May 27, 2017
 - [jrnl- The Command Line Journal](http://jrnl.sh/) 
+
+### May 28, 2017
+- [Examples](http://json-schema.org/examples.html) 
